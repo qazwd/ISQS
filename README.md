@@ -84,8 +84,3 @@ ISQS/          # 项目根目录
 │   └── README.md      # 前端说明文档
 │
 └── README.md          # 项目整体说明文档
-
-构建前端:
-npm create vite@latest . -- --template react
-npm install
-npm install axios react-router-dom
